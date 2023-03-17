@@ -1,2 +1,3 @@
 # UDP
-沒辦法實現重傳的重傳
+Reliable data transfer implement by UDB  
+Support packet loss retransmission
